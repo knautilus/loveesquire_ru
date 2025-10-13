@@ -1,17 +1,17 @@
-update localized_texts set RU = 'Ты назвала меня ''слабым''?!' where TOKEN = 'VELARC1SCENE2_SQUIRE_012'
-update localized_texts set RU = 'П-прими это в следующий раз, когда тебе станет плохо... Это хорошее средство для слабого желудка...' where TOKEN = 'VELARC1SCENE2_VEL_007'
-update localized_texts set RU = 'И почему, черт возьми, все хотят видеть, как я ее избиваю?!' where TOKEN = 'VELARC1SCENE1_SQUIRE_048'
-update localized_texts set RU = 'В этом поединке определится, кто на самом деле "молокосос"!' where TOKEN = 'VELARC1SCENE1_JCOX_015'
-update localized_texts set RU = 'Итак, поприветствуйте... в одном углу, всеми любимый завсегдатай таверны — Вэл Шарфе!' where TOKEN = 'VELARC1SCENE1_JCOX_012'
-update localized_texts set RU = 'Конечно! Толпе это нравится, это приносит мне деньги, все счастливы!' where TOKEN = 'VELARC1SCENE1_JCOX_011'
-update localized_texts set RU = 'Сегодня вас ждет потрясающий матч — старая добрая игра в армрестлинг!' where TOKEN = 'VELARC1SCENE1_JCOX_010'
-update localized_texts set RU = 'Ладно! Послушайте, пьяные чурбаны!' where TOKEN = 'VELARC1SCENE1_JCOX_009'
-update localized_texts set RU = 'Просто выслушай меня, ты, коротышка!' where TOKEN = 'VELARC1SCENE1_SQUIRE_018'
-update localized_texts set RU = 'Давай, нападай! Покажем всем, кто из нас двоих маленькая девочка.' where TOKEN = 'VELARC1SCENE1_VEL_016'
-update localized_texts set RU = 'Оно нужно этому {i}''кретину!''{/i}' where TOKEN = 'VELARC1SCENE1_VEL_011'
-update localized_texts set RU = 'Босс! Подайте молочко! Этому... эм... кретину! Да, именно так…' where TOKEN = 'VELARC1SCENE1_VEL_010'
-update localized_texts set RU = 'Ты пролил мою выпивку, ты... ты... ты слепой говнюк!' where TOKEN = 'VELARC1SCENE1_VEL_005'
-update localized_texts set RU = 'Что? Меня? Побьют? Не может быть! Эта маленькая креветка? Пффф.' where TOKEN = 'VELARC1SCENE1_SQUIRE_049'
-update localized_texts set RU = 'Эй, креветка! Я знаю, как мы можем уладить это, не калеча твое милое личико!' where TOKEN = 'VELARC1SCENE1_SQUIRE_017'
-update localized_texts set RU = 'Черта с два я стану драться с креветкой!' where TOKEN = 'VELARC1SCENE1_CHOICE_002'
-update localized_texts set RU = 'Но эй, благодаря всему этому я — один из лучших торговцев в округе. Здесь родилась, здесь же и выросла!' where TOKEN = 'AMYTOPICWORK_AMELIE_006'
+update localized_texts set RU = 'Ты назвала меня ''слабым''?!' where TOKEN = 'VELARC1SCENE2_SQUIRE_012';
+update localized_texts set RU = 'П-прими это в следующий раз, когда тебе станет плохо... Это хорошее средство для слабого желудка...' where TOKEN = 'VELARC1SCENE2_VEL_007';
+update localized_texts set RU = 'И почему, черт возьми, все хотят видеть, как я ее избиваю?!' where TOKEN = 'VELARC1SCENE1_SQUIRE_048';
+update localized_texts set RU = 'В этом поединке определится, кто на самом деле "молокосос"!' where TOKEN = 'VELARC1SCENE1_JCOX_015';
+update localized_texts set RU = 'Итак, поприветствуйте... в одном углу, всеми любимый завсегдатай таверны — Вэл Шарфе!' where TOKEN = 'VELARC1SCENE1_JCOX_012';
+update localized_texts set RU = 'Конечно! Толпе это нравится, это приносит мне деньги, все счастливы!' where TOKEN = 'VELARC1SCENE1_JCOX_011';
+update localized_texts set RU = 'Сегодня вас ждет потрясающий матч — старая добрая игра в армрестлинг!' where TOKEN = 'VELARC1SCENE1_JCOX_010';
+update localized_texts set RU = 'Ладно! Послушайте, пьяные чурбаны!' where TOKEN = 'VELARC1SCENE1_JCOX_009';
+update localized_texts set RU = 'Просто выслушай меня, ты, коротышка!' where TOKEN = 'VELARC1SCENE1_SQUIRE_018';
+update localized_texts set RU = 'Давай, нападай! Покажем всем, кто из нас двоих маленькая девочка.' where TOKEN = 'VELARC1SCENE1_VEL_016';
+update localized_texts set RU = 'Оно нужно этому {i}''кретину!''{/i}' where TOKEN = 'VELARC1SCENE1_VEL_011';
+update localized_texts set RU = 'Босс! Подайте молочко! Этому... эм... кретину! Да, именно так…' where TOKEN = 'VELARC1SCENE1_VEL_010';
+update localized_texts set RU = 'Ты пролил мою выпивку, ты... ты... ты слепой говнюк!' where TOKEN = 'VELARC1SCENE1_VEL_005';
+update localized_texts set RU = 'Что? Меня? Побьют? Не может быть! Эта маленькая креветка? Пффф.' where TOKEN = 'VELARC1SCENE1_SQUIRE_049';
+update localized_texts set RU = 'Эй, креветка! Я знаю, как мы можем уладить это, не калеча твое милое личико!' where TOKEN = 'VELARC1SCENE1_SQUIRE_017';
+update localized_texts set RU = 'Черта с два я стану драться с креветкой!' where TOKEN = 'VELARC1SCENE1_CHOICE_002';
+update localized_texts set RU = 'Но эй, благодаря всему этому я — один из лучших торговцев в округе. Здесь родилась, здесь же и выросла!' where TOKEN = 'AMYTOPICWORK_AMELIE_006';

@@ -1,7 +1,11 @@
-select TOKEN, EN, RU from localized_texts
-
-update localized_texts set RU = 'Отмена' where TOKEN = 'cancelText'
-update localized_texts set RU = 'Фоны' where TOKEN = 'backgroundsText'
-update localized_texts set RU = 'Отдохнуть' where TOKEN = 'restText'
-update localized_texts set RU = 'Отдохнуть и сохранить' where TOKEN = 'restSaveText'
-update localized_texts set RU = 'Хью, вставай! Нам надо сражаться!' where TOKEN = 'campTut24Text'
+update localized_texts set RU = 'Отмена' where TOKEN = 'cancelText';
+update localized_texts set RU = 'Фоны' where TOKEN = 'backgroundsText';
+update localized_texts set RU = 'Отдохнуть' where TOKEN = 'restText';
+update localized_texts set RU = 'Отдохнуть и сохранить' where TOKEN = 'restSaveText';
+update localized_texts set RU = 'Хью, вставай! Нам надо сражаться!' where TOKEN = 'campTut24Text';
+update localized_texts set RU = 'Вот это настрой! Ну тогда пошли.' where TOKEN = 'headOffText';
+update localized_texts set RU = 'Исцеление' where TOKEN = 'healText';
+update localized_texts set RU = 'Эй, не дай слизи убить тебя! Вернись!' where TOKEN = 'campTut3Text';
+update localized_texts set RU = 'Добро пожаловать в режим Новой Игры+! Мы надеемся, что следующие функции и советы облегчат ваши любовные похождения.' where TOKEN = 'ngTip1Text';
+update localized_texts set RU = 'Сбросить всё на настройки по умолчанию?' where TOKEN = 'setDefaultText';
+update localized_texts set RU = 'Сбросить' where TOKEN = 'defaultText';
