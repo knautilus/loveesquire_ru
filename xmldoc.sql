@@ -1,0 +1,7 @@
+update localized_texts set ru = 'Ежемесячная проверка Хью. Я не должен забывать об этом....' where TOKEN = '1|30'
+update localized_texts set ru = 'Ежемесячная проверка Хью. Я не должен забывать об этом....' where TOKEN = '2|30'
+update localized_texts set ru = 'Ежемесячная проверка Хью. Я не должен забывать об этом....' where TOKEN = '3|30'
+update localized_texts set ru = 'Это моя третья и, возможно, последняя проверка оруженосца перед войной. Выпили и хорошо провели время, пообщавшись. Одна примечательная вещь, после стольких лет, я наконец-то узнал настоящее имя Босса! Ура!' where TOKEN = 'hugh_month3_specialscene'
+update localized_texts set ru = 'Путешествия' where TOKEN = 'beatrice_topic_travel'
+update localized_texts set ru = 'Даже не клюнуло' where TOKEN = 'FARMABLE_NREC_10'
+update localized_texts set ru = 'Эта креветка думает, что я слабак! Она дала мне лекарств. Я ей покажу! Я покажу ей, что могу справиться с любой выпивкой!' where TOKEN = 'arc_vel_1-2'
